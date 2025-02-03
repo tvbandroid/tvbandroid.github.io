@@ -1,8 +1,20 @@
 <!-- tvbanBuffer -->
 <advancedsettings>
-<cache>
-<buffermode>4</buffermode>
-<memorysize>62914560</memorysize>
-<readfactor>10</readfactor>
-</cache>
+ <gui>
+    <algorithmdirtyregions>3</algorithmdirtyregions>
+    <nofliptimeout>0</nofliptimeout>
+ </gui>
+ <network>
+    <alwaysforcebuffer>true</alwaysforcebuffer>
+    <autodetectpingtime>25</autodetectpingtime>
+    <curlclienttimeout>60</curlclienttimeout>
+    <curllowspeedtime>90</curllowspeedtime>
+    <disableipv6>true</disableipv6>
+    <curlretries>3</curlretries>
+ </network>
+ <cache>
+    <buffermode>4</buffermode>
+    <memorysize>62914560</memorysize>
+    <readfactor>10</readfactor>
+ </cache>
 </advancedsettings>
