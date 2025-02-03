@@ -7,6 +7,14 @@
             "icon": "https://i.imgur.com/gmFFjk6.png",
             "fanart": "https://i.imgur.com/tsG8pai.jpg",
             "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
+        },		
+		{
+            "name": "[B][COLOR white]andtv[COLOR tomato]Buf [COLOR lime]de RAM[/COLOR] [COLOR white]Todo en Uno[/COLOR][/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/andtvBuffer-Ram.xml",
+            "icon": "https://i.imgur.com/gmFFjk6.png",
+            "fanart": "https://i.imgur.com/tsG8pai.jpg",
+            "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
         },
         {
             "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B]",

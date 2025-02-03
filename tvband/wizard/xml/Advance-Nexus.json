@@ -47,14 +47,6 @@
             "icon": "https://i.imgur.com/gmFFjk6.png",
             "fanart": "https://i.imgur.com/E7zvTh6.jpg",
             "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
-        },
-		{
-            "name": "[B][COLOR white]tvban[COLOR tomato]Buf [COLOR lime]de RAM[/COLOR] [COLOR white]Todo en Uno[/COLOR][/B]",
-            "section": false,
-            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/tvbanBuffer-Ram.xml",
-            "icon": "https://i.imgur.com/gmFFjk6.png",
-            "fanart": "https://i.imgur.com/OjqQwEt.jpg",
-            "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
         }
     ]
 }
