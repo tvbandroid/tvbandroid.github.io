@@ -33,7 +33,7 @@
             "description": "[COLOR orangered]Caché optimizada para dispositivos de 1.5GB de RAM como el Fire TV Stick 4K[/COLOR]"
         },
         {
-             "name": "[B][COLOR lime]+3Gb de RAM[/COLOR][/B] - [COLOR gray]NVIDIA Shield, Fire TV Stick 4K Max, Fire TV Cube, PC[/COLOR]",
+             "name": "[B][COLOR lime]+3Gb de RAM[/COLOR][/B] - [COLOR gray]NVIDIA Shield, Fire TV Stick 4K Max, Fire TV Cube, TV Box y PC[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/3Gb-Ram.xml",
             "icon": "https://i.imgur.com/dqteane.png",
