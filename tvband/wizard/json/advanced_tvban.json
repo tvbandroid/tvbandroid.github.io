@@ -1,12 +1,20 @@
 {
     "presets": [		
 		{
-            "name": "[B][COLOR white]and[COLOR tomato]Buf [COLOR lime]de RAM[/COLOR] [COLOR white]Todo en Uno[/COLOR][/B]",
+            "name": "[B][COLOR white]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion1)[/COLOR][/B]",
             "section": false,
-            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/andtvBuffer-Ram.xml",
+            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/andtvBuffer-Ram.(opcion1).xml",
             "icon": "https://i.imgur.com/gmFFjk6.png",
             "fanart": "https://i.imgur.com/tsG8pai.jpg",
-            "description": "Este ajuste no utiliza Cache, siendo más rápido reiniciar."
+            "description": "[COLOR olivedrab]Ajuste por TVban, que va muy bien.[/COLOR]"
+        },
+		{
+            "name": "[B][COLOR white]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion2)[/COLOR][/B]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/andtvBuffer-Ram.(opcion2).xml",
+            "icon": "https://i.imgur.com/gmFFjk6.png",
+            "fanart": "https://i.imgur.com/tsG8pai.jpg",
+            "description": "[COLOR khaki]Este ajuste no utiliza Cache, siendo más rápido reiniciar.[/COLOR]"
         },
         {
             "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B]",
@@ -19,7 +27,7 @@
         {
             "name": "[B][COLOR powderblue]1Gb de RAM[/COLOR][/B]",
             "section": false,
-            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/1Gb-Ram.xml",
+            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/1Gb-Ram.xml",
             "icon": "https://i.imgur.com/T5szntf.png",
             "fanart": "https://i.imgur.com/tsG8pai.jpg",
             "description": "[COLOR darkorange]Caché optimizada para dispositivos con 1 GB de RAM, como Fire TV Sticks de 1.ª, 2.ª y 3.ª generación y TV Box estilo MXQ[/COLOR]"
@@ -27,7 +35,7 @@
         {
             "name": "[B][COLOR mediumseagreen]1.5Gb de RAM[/COLOR][/B]",
             "section": false,
-            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/2Gb-Ram.xml",
+            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/1.5Gb-Ram.xml",
             "icon": "https://i.imgur.com/InMnEdO.png",
             "fanart": "https://i.imgur.com/tsG8pai.jpg",
             "description": "[COLOR orangered]Cache optimised for 1.5GB RAM devices such as the Fire TV Stick 4K[/COLOR]"
@@ -35,7 +43,7 @@
         {
              "name": "[B][COLOR lime]+3Gb de RAM[/COLOR][/B]",
             "section": false,
-            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/3Gb-Ram.(opcion1).xml",
+            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/3Gb-Ram.xml",
             "icon": "https://i.imgur.com/dqteane.png",
             "fanart": "https://i.imgur.com/tsG8pai.jpg",
             "description": "[COLOR lime]Caché optimizada para dispositivos de más de 2 GB, como NVIDIA Shield, Fire TV Stick 4K Max, Fire TV Cube, TV Box y PC de alta gama[/COLOR]"
@@ -43,10 +51,10 @@
 		{
             "name": "[B][COLOR yellowgreen]CONFIGURACION CACHE[/COLOR] [COLOR white]PREDETERMINADA[/COLOR][/B]",
             "section": false,
-            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/3Gb-Ram.(opcion2).xml",
+            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/Predeterminada.xml",
             "icon": "https://i.imgur.com/tTmxuu7.png",
             "fanart": "https://i.imgur.com/tsG8pai.jpg",
-            "description": "[COLOR yellowgreen]Restaura la configuración de caché predeterminada de [COLOR teal]Kodi.[/COLOR]"
+            "description": "[COLOR yellowgreen]Restaura la configuración de Caché predeterminada de [COLOR teal]Kodi.[/COLOR]"
         }
 		
     ]
