@@ -1,14 +1,6 @@
 {
     "presets": [		
 		{
-            "name": "[B][COLOR white]SELECCIONE UNA OPCION:[/COLOR][/B]",
-            "section": false,
-            "url": "",
-            "icon": "https://i.imgur.com/tTmxuu7.png",
-            "fanart": "https://i.imgur.com/tsG8pai.jpg",
-            "description": "[COLOR olivedrab]Ajuste por TVban, que va muy bien.[/COLOR]"
-        },
-		{
             "name": "[B][COLOR white]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion1)[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/andtvBuffer-Ram.(opcion1).xml",
