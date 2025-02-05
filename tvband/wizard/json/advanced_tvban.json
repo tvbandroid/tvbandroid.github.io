@@ -9,7 +9,7 @@
             "description": "[COLOR olivedrab]Ajuste por TVban, que va muy bien.[/COLOR]"
         },
 		{
-            "name": "[COLOR white][B]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion2)][/B] - [COLOR gray]no utiliza Cache[/COLOR]",
+            "name": "[COLOR white][B]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion2)][/B] - [COLOR gray]No utiliza Cache[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/andtvBuffer-Ram.(opcion2).xml",
             "icon": "https://i.imgur.com/gmFFjk6.png",
