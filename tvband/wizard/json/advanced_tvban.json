@@ -25,7 +25,7 @@
             "description": "[COLOR darkorange]Caché optimizada para dispositivos con 1 GB de RAM, como Fire TV Sticks de 1.ª, 2.ª y 3.ª generación y TV Box estilo MXQ[/COLOR]"
         },
         {
-            "name": "[B][COLOR mediumseagreen]1.5Gb de RAM[/COLOR][/B] [COLOR gray]Fire TV Stick 4K[/COLOR]",
+            "name": "[B][COLOR mediumseagreen]1.5Gb de RAM[/COLOR][/B] - [COLOR gray]Fire TV Stick 4K[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/1.5Gb-Ram.xml",
             "icon": "https://i.imgur.com/InMnEdO.png",
