@@ -1,8 +1,8 @@
-<!-- 1 Gb -->
+<!-- 1.5 Gb -->
 <advancedsettings>
 <filecache>
 <buffermode>2</buffermode>
-<memorysize>128</memorysize>
+<memorysize>192</memorysize>
 <readfactor>1000</readfactor>
 <chunksize>131072</chunksize>
 </filecache>
