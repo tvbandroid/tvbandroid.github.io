@@ -17,14 +17,6 @@
             "description": "[COLOR khaki]Este ajuste no utiliza Cache, siendo más rápido reiniciar.[/COLOR]"
         },
         {
-            "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B]",
-            "section": false,
-            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/ROM.xml",
-            "icon": "https://i.imgur.com/mX6Nv9n.png",
-            "fanart": "https://i.imgur.com/tsG8pai.jpg",
-            "description": "Este ajuste utiliza la memoria ROM como Cache, ideal para dispositivos con gran capacidad de memoria externa."
-        },
-        {
             "name": "[B][COLOR powderblue]1Gb de RAM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/1Gb-Ram.xml",

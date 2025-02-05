@@ -1,7 +1,7 @@
 {
     "presets": [
         {
-            "name": "[B][COLOR tomato]Buffer [COLOR azure]TVban [COLOR cyan]MATNEXOM [COLOR steelblue]Kodi: [COLOR azure]21 [COLOR dodgerblue]Omega[/COLOR][/B]",
+            "name": "[B][COLOR tomato]Cache [COLOR azure]TVban [COLOR cyan]MATNEXOM [COLOR teal]Kodi: [COLOR azure]21 [COLOR dodgerblue]Omega[/COLOR][/B]",
             "section": true,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/json/advanced_tvban.json",
             "icon": "https://i.imgur.com/odiwKeB.png",
