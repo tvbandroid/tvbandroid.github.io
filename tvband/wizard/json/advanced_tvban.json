@@ -33,7 +33,7 @@
             "description": "[COLOR orangered]Cache optimised for 1.5GB RAM devices such as the Fire TV Stick 4K[/COLOR]"
         },
         {
-             "name": "[B][COLOR lime]+3Gb de RAM[/COLOR][/COLOR][/B]",
+             "name": "[B][COLOR lime]+3Gb de RAM[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/3Gb-Ram.(opcion1).xml",
             "icon": "https://i.imgur.com/dqteane.png",
@@ -46,7 +46,7 @@
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/3Gb-Ram.(opcion2).xml",
             "icon": "https://i.imgur.com/tTmxuu7.png",
             "fanart": "https://i.imgur.com/tsG8pai.jpg",
-            "description": "[COLOR yellowgreen]Restaura la configuración de caché predeterminada de Kodi.[/COLOR]"
+            "description": "[COLOR yellowgreen]Restaura la configuración de caché predeterminada de [COLOR teal]Kodi.[/COLOR]"
         }
 		
     ]
