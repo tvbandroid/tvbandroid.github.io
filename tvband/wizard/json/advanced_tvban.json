@@ -1,7 +1,7 @@
 {
     "presets": [		
 		{
-            "name": "[B][COLOR white]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion1)[/COLOR][/B] - [COLOR olivedrab]Ajuste por TVban, que va muy bien.[/COLOR]",
+            "name": "[COLOR white][B]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion1)[/B] - [COLOR olivedrab]Ajuste por TVban, que va muy bien.[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/andtvBuffer-Ram.(opcion1).xml",
             "icon": "https://i.imgur.com/gmFFjk6.png",
@@ -9,7 +9,7 @@
             "description": "[COLOR olivedrab]Ajuste por TVban, que va muy bien.[/COLOR]"
         },
 		{
-            "name": "[B][COLOR white]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion2)[/COLOR][/B] - [COLOR gray]no utiliza Cache[/COLOR]",
+            "name": "[COLOR white][B]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion2)][/B] - [COLOR gray]no utiliza Cache[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/andtvBuffer-Ram.(opcion2).xml",
             "icon": "https://i.imgur.com/gmFFjk6.png",
@@ -17,7 +17,7 @@
             "description": "[COLOR khaki]Este ajuste no utiliza Cache, siendo más rápido reiniciar.[/COLOR]"
         },
         {
-            "name": "[B][COLOR powderblue]1Gb de RAM[/COLOR][/B] - [COLOR gray]Fire TV Sticks de 1.ª, 2.ª y 3.ª[/COLOR]",
+            "name": "[COLOR powderblue][B]1Gb de RAM[/B] - [COLOR gray]Fire TV Sticks de 1.ª, 2.ª y 3.ª[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/1Gb-Ram.xml",
             "icon": "https://i.imgur.com/T5szntf.png",
@@ -25,7 +25,7 @@
             "description": "[COLOR darkorange]Caché optimizada para dispositivos con 1 GB de RAM, como Fire TV Sticks de 1.ª, 2.ª y 3.ª generación y TV Box estilo MXQ[/COLOR]"
         },
         {
-            "name": "[B][COLOR mediumseagreen]1.5Gb de RAM[/COLOR][/B] - [COLOR gray]Fire TV Stick 4K[/COLOR]",
+            "name": "[COLOR mediumseagreen][B]1.5Gb de RAM[/B] - [COLOR gray]Fire TV Stick 4K[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/1.5Gb-Ram.xml",
             "icon": "https://i.imgur.com/InMnEdO.png",
@@ -33,7 +33,7 @@
             "description": "[COLOR orangered]Caché optimizada para dispositivos de 1.5GB de RAM como el Fire TV Stick 4K[/COLOR]"
         },
         {
-             "name": "[B][COLOR lime]+3Gb de RAM[/COLOR][/B] - [COLOR gray]NVIDIA Shield, Fire TV Stick 4K Max, Fire TV Cube, TV Box y PC[/COLOR]",
+             "name": "[COLOR lime][B]+3Gb de RAM[/B] - [COLOR gray]NVIDIA Shield, Fire TV Stick 4K Max, Fire TV Cube, TV Box y PC[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/3Gb-Ram.xml",
             "icon": "https://i.imgur.com/dqteane.png",
@@ -41,7 +41,7 @@
             "description": "[COLOR lime]Caché optimizada para dispositivos de más de 2 GB, como NVIDIA Shield, Fire TV Stick 4K Max, Fire TV Cube, TV Box y PC de alta gama[/COLOR]"
         },
 		{
-            "name": "[B][COLOR white]Configuración [COLOR yellowgreen]Cache [COLOR white]PREDETERMINADA[/COLOR][/B] - [COLOR gray]Restaura la Configuración Predeterminada[/COLOR]",
+            "name": "[COLOR white][B]Configuración [COLOR yellowgreen]Cache [COLOR white]PREDETERMINADA[/B] - [COLOR gray]Restaura la Configuración Predeterminada[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/Predeterminada.xml",
             "icon": "https://i.imgur.com/tTmxuu7.png",
