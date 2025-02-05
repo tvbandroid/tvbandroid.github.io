@@ -44,8 +44,6 @@
             "name": "[B][COLOR white]CONFIGURACION [COLOR yellowgreen]CACHE[/COLOR] [COLOR white]PREDETERMINADA[/COLOR][/B]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/Predeterminada.xml",
-            "icon": "https://i.imgur.com/tTmxuu7.png",
-            "fanart": "https://i.imgur.com/tsG8pai.jpg",
             "description": "[COLOR yellowgreen]Restaura la configuración de Caché predeterminada de [COLOR teal]Kodi.[/COLOR]"
         }
 		
