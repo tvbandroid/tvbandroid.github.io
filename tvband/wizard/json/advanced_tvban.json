@@ -41,7 +41,7 @@
             "description": "[COLOR lime]Caché optimizada para dispositivos de más de 2 GB, como NVIDIA Shield, Fire TV Stick 4K Max, Fire TV Cube, TV Box y PC de alta gama[/COLOR]"
         },
 		{
-            "name": "[B][COLOR white]Configuración [COLOR yellowgreen]Cache[/COLOR] - [COLOR white]PREDETERMINADA [/COLOR][/B] [COLOR gray]Restaura la Configuración Predeterminada[/COLOR]",
+            "name": "[B][COLOR white]Configuración [COLOR yellowgreen]Cache [COLOR white]PREDETERMINADA[/COLOR][/B] - [COLOR gray]Restaura la Configuración Predeterminada[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/Predeterminada.xml",
             "icon": "https://i.imgur.com/tTmxuu7.png",
