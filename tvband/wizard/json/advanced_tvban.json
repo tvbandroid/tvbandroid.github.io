@@ -9,7 +9,7 @@
             "description": "[COLOR olivedrab]Ajuste por TVban, que va muy bien.[/COLOR]"
         },
 		{
-            "name": "[COLOR white][B]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion2)][/B] - [COLOR gray]No utiliza Cache[/COLOR]",
+            "name": "[COLOR white][B]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion2)[/B] - [COLOR gray]No utiliza Cache[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/andtvBuffer-Ram.(opcion2).xml",
             "icon": "https://i.imgur.com/gmFFjk6.png",
@@ -41,7 +41,7 @@
             "description": "[COLOR lime]Caché optimizada para dispositivos de más de 2 GB, como NVIDIA Shield, Fire TV Stick 4K Max, Fire TV Cube, TV Box y PC de alta gama[/COLOR]"
         },
 		{
-            "name": "[COLOR white][B]Configuración [COLOR yellowgreen]Cache [COLOR white]PREDETERMINADA[/B] - [COLOR gray]Restaura la Configuración Predeterminada[/COLOR]",
+            "name": "[COLOR white][B]Configuración [COLOR yellowgreen]Cache [COLOR white]Predeterminada[/B] - [COLOR gray]Restaura la Configuración Predeterminada[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/Predeterminada.xml",
             "icon": "https://i.imgur.com/tTmxuu7.png",
