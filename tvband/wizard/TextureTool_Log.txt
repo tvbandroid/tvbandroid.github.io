@@ -1,0 +1,35 @@
+******************Program start*****************
+Current Time: 2025.02.11-00:09:55
+Running Version: 2.9.2
+RegRead: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\10.0\VC\VCRedist\x86: 1
+C:\WINDOWS\SysWOW64\msvcp140.dll: 1
+C:\WINDOWS\system32\msvcp140.dll: 1
+C:\WINDOWS\SysWOW64\VCRUNTIME140.dll: 1
+C:\WINDOWS\system32\VCRUNTIME140.dll: 1
+00:09:57: Displayed vcredist hint once
+00:09:58: TexturePacker Version: 1.1.1.0
+00:10:58: Decompile Mode started.
+00:13:10: Path to .xbt File: C:\Users\josan\OneDrive\Documentos\Github\TEXTURE\Textures.xbt
+00:13:27: Path to output directory:C:\Users\josan\OneDrive\Documentos\Github\TEXTURE\Nueva carpeta
+00:13:45: Running command:base.exe "C:\Users\josan\OneDrive\Documentos\Github\TEXTURE\Textures.xbt" "C:\Users\josan\OneDrive\Documentos\Github\TEXTURE\Nueva carpeta
+00:14:20: base.exe running.
+00:14:20: base.exe closed.
+00:14:20: Opening outputdirectory.
+00:17:22: Compile Mode started.
+00:17:55: Directory is fine.
+00:17:55: Path to directory: C:\Users\josan\OneDrive\Documentos\Github\TEXTURE\EDITAADO
+00:18:02: Directory is fine.
+00:18:02: Path to output file: C:\Users\josan\OneDrive\Documentos\Github\TEXTURE\EDITAADO\Textures.xbt
+00:18:07: Running command:TexturePacker -input C:\Users\josan\OneDrive\Documentos\Github\TEXTURE\EDITAADO -output C:\Users\josan\OneDrive\Documentos\Github\TEXTURE\EDITAADO\Textures.xbt
+00:18:07: TexturePacker.exe running.
+00:18:07: TexturePacker.exe closed.
+00:21:15: Running command:TexturePacker -dupecheck -input C:\Users\josan\OneDrive\Documentos\Github\TEXTURE\EDITAADO -output C:\Users\josan\OneDrive\Documentos\Github\TEXTURE\EDITAADO\Textures.xbt
+00:21:15: TexturePacker.exe running.
+00:21:15: TexturePacker.exe closed.
+00:21:59: Compile Mode started.
+00:22:14: Found a space in compile directory ! Displayed hint.
+00:22:46: Directory is fine.
+00:22:46: Path to output file: 
+00:23:03: Found a space in target file directory ! Displayed hint.
+00:23:20: Found a space in target file directory ! Displayed hint.
+******************Closed by User*****************
