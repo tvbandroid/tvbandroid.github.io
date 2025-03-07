@@ -1,4 +1,4 @@
-[tvbandroid](https://github.com/tvbandroid/repositorio.tvbandroid)
+[<img src="https://img.shields.io/badge/tvbandroid-navy">](https://github.com/tvbandroid/repositorio.tvbandroid)
 
 # Grupo Telegram soporte: 
 # $\textbf{andtvban:\ {\color{green}Matrix\ {\color{white},\ {\color{indigo}Nexus\ {\color{white},\ {\color{dodgerblue}Omega}}}}}}$
