@@ -1,7 +1,7 @@
 {
     "presets": [		
 		{
-            "name": "[COLOR white][B]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion1)[/B] - [COLOR olivedrab]Ajuste por TVban, que va muy bien.[/COLOR]",
+            "name": "[COLOR white][B]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opción1)[/B] - [COLOR olivedrab]Ajuste por TVban, que va muy bien.[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/andtvBuffer-Ram.(opcion1).xml",
             "icon": "https://i.imgur.com/gmFFjk6.png",
@@ -9,7 +9,7 @@
             "description": "[COLOR olivedrab]Ajuste por TVban, que va muy bien.[/COLOR]"
         },
 		{
-            "name": "[COLOR white][B]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opcion2)[/B] - [COLOR gray]No utiliza Cache[/COLOR]",
+            "name": "[COLOR white][B]and[COLOR tomato]Buf [COLOR lime]de RAM [COLOR white](opción2)[/B] - [COLOR gray]No utiliza Cache[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/refs/heads/master/tvband/wizard/buffer/andtvBuffer-Ram.(opcion2).xml",
             "icon": "https://i.imgur.com/gmFFjk6.png",
@@ -47,6 +47,14 @@
             "icon": "https://i.imgur.com/tTmxuu7.png",
             "fanart": "https://i.imgur.com/tsG8pai.jpg",
             "description": "[COLOR yellowgreen]Restaura la configuración de Caché predeterminada de [COLOR teal]Kodi.[/COLOR]"
+        },
+		{
+            "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B] - [COLOR gray]Para Ordeandores[/COLOR]",
+            "section": false,
+            "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/ROM.xml",
+            "icon": "https://i.imgur.com/mX6Nv9n.png",
+            "fanart": "https://i.imgur.com/tsG8pai.jpg",
+            "description": "Este ajuste usa la Memoria ROM, para dispositivos con gran capacidad de Memoria Externa, cómo un Ordenador"
         }
 		
     ]
