@@ -57,7 +57,7 @@
             "description": "[COLOR yellowgreen]Restaura la configuración de Caché predeterminada de [COLOR teal]Kodi.[/COLOR]"
         },
 		{
-            "name": "[B][COLOR steelblue]Por ROM[/COLOR][/B] - [COLOR gray]Para Ordeandores[/COLOR]",
+            "name": "[B][COLOR steelblue]ROM[/COLOR][/B] - [COLOR gray]Para Ordenadores[/COLOR]",
             "section": false,
             "url": "https://raw.githubusercontent.com/tvbandroid/tvbandroid.github.io/master/tvband/wizard/buffer/ROM.xml",
             "icon": "https://i.imgur.com/mX6Nv9n.png",
